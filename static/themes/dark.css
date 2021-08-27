@@ -1,0 +1,115 @@
+:root {
+
+  /* Scrollbar */
+
+  --scrollbar-track-background-color: #121212;
+  --scrollbar-thumb-background-color: #222;
+  --scrollbar-thumb-hover-background-color: #555;
+
+
+  /* Selection */
+  --selection-background-color: #008eff;
+  --selection-text-color: white;
+
+
+  /* Generic */
+
+  --background-color: #121212;
+  --text-color: #bcbcbc;
+  --link-color: white;
+  --svg-fill-color: #626262;
+
+
+  /* Notifications */
+
+  --notification-border-color: transparent;
+
+
+  /* Overlay */
+
+  --to-create-overlay-background-color: #134e82;
+  --to-rename-overlay-background-color: rgba(30, 136, 229, .7);
+  --to-delete-overlay-background-color: rgba(255, 0, 0, .6);
+
+
+  /* Modal */
+
+  --modal-background-color: #222;
+  --modal-border-color: transparent;
+  --modal-input-border-color: transparent;
+  --modal-button-background-color: white;
+  --modal-button-text-color: #121212;
+
+
+  /* Context menu */
+
+  --context-menu-background-color: #383838;
+  --context-menu-text-color: white;
+  --context-menu-hover-background-color: #494949;
+  --context-menu-hover-text-color: white;
+  --context-menu-disabled-text-color: #626262;
+
+
+  /* Sidebar */
+
+  --sidebar-notes-background-color: #121212;
+  --sidebar-notes-text-color: #626262;
+  --sidebar-active-note-background-color: #222;
+  --sidebar-active-note-text-color: white;
+
+
+  /* Drag */
+
+  --drag-border-color: #454545;
+  --drag-resizing-border-color: white;
+
+
+  /* Bar */
+
+  --bar-border-color: #454545;
+
+
+  /* Toolbar */
+
+  --toolbar-button-color: #626262;
+  --toolbar-button-hover-background-color: #222;
+  --toolbar-button-hover-color: white;
+  --toolbar-submenu-background-color: #121212;
+
+
+  /* Tooltip */
+  --tooltip-background-color: #222;
+  --tooltip-text-color: white;
+
+
+  /* Note */
+
+  --pre-border-color: #454545;
+  --highlight-background-color: yellow;
+  --highlight-text-color: black;
+  --table-border: 3px solid #454545;
+  --table-td-border: 1px solid #222;
+  --table-td-heading-background-color: #222;
+
+
+  /* Command palette */
+
+  --command-palette-border-color: #454545;
+  --command-palette-item-background-color: #121212;
+  --command-palette-item-text-color: #626262;
+  --command-palette-active-item-background-color: #222;
+  --command-palette-active-item-text-color: white;
+
+
+  /* Only in Options */
+
+  --keyboard-shortcut-background-color: #222;
+  --keyboard-shortcut-text-color: white;
+
+  --comment-background-color: #222;
+  --comment-text-color: white;
+
+  --slider-background-color: white;
+  --slider-thumb-background-color: white;
+  --slider-thumb-size: 16px;
+}

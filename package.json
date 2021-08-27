@@ -1,0 +1,13 @@
+{
+  "name": "note-book",
+  "version": "1.0.0",
+  "main": "build.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "RPANDUGA <rpanduga@yahoo.com>",
+  "license": "MIT"
+}
